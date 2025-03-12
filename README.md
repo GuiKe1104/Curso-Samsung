@@ -1,1 +1,1 @@
-Proyecto del curso SAMSUNG VT10.
+Proyecto del curso SAMSUNG INNOVATION CAMP - VT10.
