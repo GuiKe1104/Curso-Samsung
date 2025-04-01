@@ -1,3 +1,6 @@
+📌 Descripción
+Este proyecto analiza datos históricos de las acciones de tres gigantes tecnológicos: AMD, Intel y NVIDIA. Incluye visualizaciones interactivas del precio promedio diario (calculado entre "High" y "Low") desde 1980 hasta la actualidad.
+
 Proyecto del curso SAMSUNG INNOVATION CAMP - VT10.
 
 Análisis de precios de las acciones de las 3 principales compañías de producción de
